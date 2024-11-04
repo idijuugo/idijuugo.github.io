@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idijuugo.github.io/ECr/sitemap_index.txt
+Sitemap: https://idijuugo.github.io/JHg/sitemap_index.txt
+Sitemap: https://idijuugo.github.io/bFn/sitemap_index.txt
+Sitemap: https://idijuugo.github.io/ohV/sitemap_index.txt
